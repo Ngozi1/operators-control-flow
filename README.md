@@ -1,4 +1,4 @@
-<!-- List the symbols for each of the below Javascript operators -->
+<!-- QUESTION 1 -->
 
 <!-- Arithmetic Operators -->
 
@@ -18,3 +18,12 @@ Assignment operator =
 
 comparison operator == and ===
 <!-- Bitwise Operators -->
+
+
+
+
+
+<!-- QUESTION 4 -->
+1
+8
+15
