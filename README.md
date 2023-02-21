@@ -16,8 +16,27 @@ Assignment operator =
 
 <!-- Comparison Operators -->
 
-comparison operator == and ===
+>
+>=
+<
+<=
+
+<!-- logical operator -->
+logical AND
+logical OR
+logical NOT
+
+
 <!-- Bitwise Operators -->
+& AND
+| OR
+^ XOR
+~ NOT
+<<	Zero fill left shift
+>>	Signed right shift
+>>>	Zero fill right shift
+
+<!-- QUESTION 2 -->
 
 
 
