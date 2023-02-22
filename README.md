@@ -12,7 +12,14 @@ Increment ++
 Decrement --
 
 <!-- Assignment Operators -->
-Assignment operator =
+ =
+ +=
+ -=
+ *=
+ /=
+ %=
+ **=
+
 
 <!-- Comparison Operators -->
 
@@ -20,6 +27,8 @@ Assignment operator =
 >=
 <
 <=
+===
+==
 
 <!-- logical operator -->
 logical AND
@@ -38,8 +47,25 @@ logical NOT
 
 <!-- QUESTION 2 -->
 
+let a = 10;
+let b = 2;
 
+let sum = a+b;
+console.log(sum)
 
+let difference = a-b;
+console.log(difference)
+
+<!-- assignment operator -->
+//let take some variables
+let x = 15;
+let y = 25;
+
+let x = y;
+let y = x;
+console.log(x)
+
+console.log (x = y+1)
 
 
 <!-- QUESTION 4 -->
