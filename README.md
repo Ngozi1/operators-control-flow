@@ -67,6 +67,8 @@ console.log(x)
 
 console.log (x = y+1)
 
+<!-- comparison operator -->
+
 
 <!-- QUESTION 4 -->
 1
